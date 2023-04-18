@@ -1,5 +1,21 @@
 body {
     background-color: rgb(245, 245, 194);
+    color: rgb(114, 111, 90);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.home-screen {
+    margin: 20px;
+    text-align: center;
+}
+
+.home-screen img {
+    width: 40%;
+}
+
+.filmone {
+    display: flex;
+    margin: 20px;
 }
 
 #poster1 {
@@ -7,9 +23,27 @@ body {
     height: auto;
 }
 
+.textone {
+    margin-left: 20px;
+}
+
+.filmtwo {
+    display: flex;
+    margin: 20px;
+}
+
 #poster2 {
     width: 30%;
     height: auto;
+}
+
+.texttwo {
+    margin-left: 20px;
+}
+
+.filmthree {
+    display: flex;
+    margin: 20px;
 }
 
 #poster3 {
@@ -17,8 +51,8 @@ body {
     height: auto;
 }
 
-.filmone {
-    display: grid;
-    align-items: center;
+.textthree {
+    margin-left: 20px;
 }
+
 
